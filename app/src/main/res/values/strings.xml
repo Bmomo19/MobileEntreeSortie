@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">eRegister</string>
+    <string name="scanner_le_code_qr">SCANNER LE CODE QR</string>
+    <string name="nom">Nom:</string>
+</resources>

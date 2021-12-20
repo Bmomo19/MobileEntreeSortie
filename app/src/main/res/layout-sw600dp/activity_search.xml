@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/background2"
+    android:paddingLeft="100dp"
+    android:paddingRight="100dp">
+
+    <EditText
+        android:id="@+id/search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:background="@mipmap/search_barre"
+        android:ems="40"
+        android:gravity="center"
+        android:hint="    Entrez le matricule de l'académicien"
+        android:inputType="textPersonName" />
+
+</RelativeLayout>
